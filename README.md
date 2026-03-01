@@ -74,7 +74,7 @@ This project performs in-depth statistical analysis and visualization of Formula
 ### Local setup
 ```bash
 # Clone the repository
-git clone https://github.com/Kaskra13/f1_world_championships_analysis/
+git clone https://github.com/Kaskra13/f1_world_championships_analysis/ f1-championships-analysis
 cd f1-championships-analysis
 
 # Install required packages
